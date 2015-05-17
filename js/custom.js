@@ -74,7 +74,7 @@ Card Style Script
 $(document).ready(function() {
 	'use strict';
 	var $el 			= $( '#card-ul' ),
-		sectionFeature  = $('#section-feature'),
+		sectionFeature  = $('#section-about'),
 		baraja 			= $el.baraja();
 	
 		if ( $(window).width() > 480) {
