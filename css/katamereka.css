@@ -5,3 +5,17 @@
 .single-pricing .margin-contact {
 	margin: 20px 20px 20px 20px
 }
+
+.section-title-contact-description {
+
+}
+
+
+.section-title-contact h3, .section-title-contact h4 {
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	display: inline-block;
+	margin-top: 0;
+	padding: 8px 0;
+	
+}
