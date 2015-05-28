@@ -32,8 +32,8 @@
     </style>
 </head>
 <body>
-    <div id="midposition">
-
+    <!-- <div id="midposition"> -->
+    <div id="wrapper">
 
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -65,15 +65,7 @@
              
            
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-<!--             <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav side-nav">
 
-                    <li>
-                        <a href="{{url('pesanan')}}"><i class="fa fa-fw fa-arrow-right"></i>Pesanan</a>
-                    </li>
-                </ul>
-            </div> -->
-            <!-- /.navbar-collapse -->
         </nav>
         <div id="page-wrapper">
 
